@@ -1,0 +1,35 @@
+.title{
+    background-color: blueviolet;
+    padding: 25px;
+    text-align: center;
+}
+.esquerda{
+    background-color: rgb(180, 109, 247);
+    width: 33%;
+    
+}
+.geral{
+    display: flex;
+    
+}
+.meio{
+    background-color: rgb(86, 30, 138);
+    width: 35%;
+    text-align: center;
+}
+button{
+height: 40px;
+ display: grid;
+ padding: 0 500px 0 0;
+ background-color: rgb(255, 0, 255);
+
+}
+.butao{
+    background-color: rgb(157, 104, 207);
+}
+.rodape{
+    background-color: blueviolet;
+padding: 7px;
+text-align: center;
+}
+
